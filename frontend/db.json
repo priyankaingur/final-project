@@ -1,0 +1,131 @@
+{
+  "profits": [
+    {
+      "month": "January",
+      "overall_expenses": 1000,
+      "overall_gross": 5000,
+      "cumulative_profit": 4000,
+      "average_profit_per_cake": 5,
+      "id": 0
+    },
+    {
+      "month": "February",
+      "overall_expenses": 1200,
+      "overall_gross": 6000,
+      "cumulative_profit": 8800,
+      "average_profit_per_cake": 4.5,
+      "id": 1
+    },
+    {
+      "month": "March",
+      "overall_expenses": 1100,
+      "overall_gross": 5500,
+      "cumulative_profit": 13200,
+      "average_profit_per_cake": 4,
+      "id": 2
+    },
+    {
+      "month": "April",
+      "overall_expenses": 1300,
+      "overall_gross": 6500,
+      "cumulative_profit": 18400,
+      "average_profit_per_cake": 3.5,
+      "id": 3
+    },
+    {
+      "month": "May",
+      "overall_expenses": 1400,
+      "overall_gross": 7000,
+      "cumulative_profit": 25900,
+      "average_profit_per_cake": 3,
+      "id": 4
+    }
+  ],
+  "expenses": [
+    {
+      "date": "2023-04-06",
+      "item": "Flour",
+      "cost": 5.99,
+      "category": "Ingredients",
+      "id": 0
+    },
+    {
+      "date": "2023-04-05",
+      "item": "Sugar",
+      "cost": 4.99,
+      "category": "Ingredients",
+      "id": 1
+    },
+    {
+      "date": "2023-04-04",
+      "item": "Butter",
+      "cost": 3.99,
+      "category": "Ingredients",
+      "id": 2
+    },
+    {
+      "date": "2023-04-03",
+      "item": "Vanilla extract",
+      "cost": 2.99,
+      "category": "Ingredients",
+      "id": 3
+    },
+    {
+      "date": "2023-04-02",
+      "item": "Baking powder",
+      "cost": 1.99,
+      "category": "Ingredients",
+      "id": 4
+    }
+  ],
+  "incomes": [
+    {
+      "date": "2023-04-05",
+      "source": "Sale of Cake",
+      "amount": 50,
+      "id": 0
+    },
+    {
+      "date": "2023-04-04",
+      "source": "Custom Cake Order",
+      "amount": 120,
+      "id": 1
+    },
+    {
+      "date": "2023-04-03",
+      "source": "Baking Class",
+      "amount": 200,
+      "id": 2
+    },
+    {
+      "date": "2023-04-02",
+      "source": "Sale of Cake",
+      "amount": 75,
+      "id": 3
+    },
+    {
+      "date": "2023-04-01",
+      "source": "Custom Cake Order",
+      "amount": 150,
+      "id": 4
+    },
+    {
+      "date": "2023-04-10",
+      "amount": "44",
+      "source": "CakeSales",
+      "id": 1114
+    },
+    {
+      "date": "2023-04-10",
+      "amount": "55",
+      "source": "CakeSales",
+      "id": 6076
+    },
+    {
+      "date": "2023-04-10",
+      "amount": "33",
+      "source": "CakeSales",
+      "id": 6921
+    }
+  ]
+}
